@@ -1,0 +1,45 @@
+{"level":"error","message":""}
+{"level":"error","message":""}
+{"level":"error","message":""}
+{"level":"error","message":"something failed miserably something failed miserably","stack":"Error: something failed miserably\n    at Object.<anonymous> (C:\\Users\\aksha\\Documents\\Mudik\\movies_rental\\index.js:50:26)\n    at Module._compile (internal/modules/cjs/loader.js:1137:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)\n    at Module.load (internal/modules/cjs/loader.js:985:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:878:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)\n    at internal/main/run_main_module.js:17:47"}
+{"level":"error","message":"something failed miserably something failed miserably","stack":"Error: something failed miserably\n    at Object.<anonymous> (C:\\Users\\aksha\\Documents\\Mudik\\movies_rental\\index.js:50:26)\n    at Module._compile (internal/modules/cjs/loader.js:1137:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)\n    at Module.load (internal/modules/cjs/loader.js:985:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:878:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)\n    at internal/main/run_main_module.js:17:47"}
+{"level":"error","message":""}
+{"level":"error","message":"Unexpected string in JSON at position 21"}
+{"level":"error","message":"Joi.string(...).require is not a function"}
+{"level":"error","message":"Joi.string(...).require is not a function"}
+{"level":"error","message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\""}
+{"level":"error","message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\""}
+{"level":"error","message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\""}
+{"level":"error","message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\""}
+{"level":"error","message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\""}
+{"level":"error","message":"Cast to ObjectId failed for value \"[object Object]\" at path \"_id\" for model \"Movie\""}
+{"level":"error","message":"Cast to ObjectId failed for value \"[object Object]\" at path \"_id\" for model \"Movie\""}
+{"level":"error","message":"Cast to ObjectId failed for value \"[object Object]\" at path \"_id\" for model \"Movie\""}
+{"level":"error","message":"Cast to ObjectId failed for value \"[object Object]\" at path \"_id\" for model \"Movie\""}
+{"level":"error","message":"Cast to ObjectId failed for value \"[object Object]\" at path \"_id\" for model \"Movie\""}
+{"level":"error","message":"Cast to ObjectId failed for value \"[object Object]\" at path \"_id\" for model \"Movie\""}
+{"level":"error","message":"pagesize is not defined"}
+{"level":"error","message":"genrename is not defined"}
+{"level":"error","message":"genrename is not defined"}
+{"level":"error","message":"genrename is not defined"}
+{"level":"error","message":"genrename is not defined"}
+{"level":"error","message":"genrename is not defined"}
+{"level":"error","message":"genrename is not defined"}
+{"level":"error","message":"pagesize is not defined"}
+{"level":"error","message":"pagesize is not defined"}
+{"level":"error","message":"Parameter \"filter\" to find() must be an object, got "}
+{"level":"error","message":"title is not defined"}
+{"level":"error","message":"title is not defined"}
+{"level":"error","message":"title is not defined"}
+{"level":"error","message":"title is not defined"}
+{"level":"error","message":"sort is not defined"}
+{"level":"error","message":"sort is not defined"}
+{"level":"error","message":"Parameter \"filter\" to find() must be an object, got "}
+{"level":"error","message":"Parameter \"filter\" to find() must be an object, got "}
+{"level":"error","message":"Cast to ObjectId failed for value \"5&currentPage=1&genreName=&title=&path=title&order=1\" at path \"_id\" for model \"Movie\""}
+{"level":"error","message":"Invalid sort value: { undefined: undefined }"}
+{"level":"error","message":"Invalid sort value: { undefined: undefined }"}
+{"level":"error","message":"Invalid sort value: { undefined: undefined }"}
+{"level":"error","message":"Invalid sort value: { undefined: undefined }"}
+{"level":"error","message":"Invalid sort value: { undefined: undefined }"}
+{"level":"error","message":"Invalid sort value: { undefined: undefined }"}
